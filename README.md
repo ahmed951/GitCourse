@@ -1,2 +1,4 @@
 # GitCourse
 for zerowebschool
+
+## Notes 
